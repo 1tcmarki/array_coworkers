@@ -8,6 +8,7 @@ namespace array_coworkers
 {
     class Program
     {
+
         static void Kiir(int[] sz)
         {
             foreach (int item in sz)
@@ -15,6 +16,7 @@ namespace array_coworkers
                 Console.Write($"{item}");
             }
         }
+
         static void Main(string[] args)
         {
             //Zoltan : Tomb letrehozasa
@@ -24,7 +26,7 @@ namespace array_coworkers
             //Balint : Eredmenyek kiirasa
             Kiir(szamok);
 
-
+           
         }
     }
 }
