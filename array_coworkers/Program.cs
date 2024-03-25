@@ -9,13 +9,22 @@ namespace array_coworkers
     class Program
     {
 
+        static void Kiir(int[] sz)
+        {
+            foreach (int item in sz)
+            {
+                Console.Write($"{item}");
+            }
+        }
+
         static void Main(string[] args)
         {
             //Zoltan : Tomb letrehozasa
             int[] szamok = { 1, 2, 3, 4, 5 };
             //Mate : Tomb adatainak osszeadasa
-            Console.WriteLine("Máté");
+            Console.WdadriteLine("Máté");
             //Balint : Eredmenyek kiirasa
+            Kiir(szamok);
 
            
         }
