@@ -8,6 +8,7 @@ namespace array_coworkers
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             //Zoltan : Tomb letrehozasa
@@ -16,7 +17,7 @@ namespace array_coworkers
             Console.WriteLine("Máté");
             //Balint : Eredmenyek kiirasa
 
-
+           
         }
     }
 }
