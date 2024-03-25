@@ -12,6 +12,7 @@ namespace array_coworkers
         {
             //Zoltan : Tomb letrehozasa
             //Mate : Tomb adatainak osszeadasa
+            Console.WriteLine("Máté");
             //Balint : Eredmenyek kiirasa
 
 
