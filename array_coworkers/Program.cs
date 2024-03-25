@@ -13,7 +13,7 @@ namespace array_coworkers
             //Zoltan : Tomb letrehozasa
             int[] szamok = { 1, 2, 3, 4, 5 };
             //Mate : Tomb adatainak osszeadasa
-            Console.WriteLine("Máté");
+            Console.WdadriteLine("Máté");
             //Balint : Eredmenyek kiirasa
 
 
